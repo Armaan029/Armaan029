@@ -40,7 +40,6 @@ and turning ideas into impactful projects.
 </div>
 <h1 align="center">🕷️ About Me</h1>
 
-'''
 
     const armaan = {
     name: "Armaan Bishnoi",
@@ -61,5 +60,17 @@ and turning ideas into impactful projects.
     ],
     currentFocus: "Building real-world AI powered applications",
     funFact: "🕸️ With Great Power Comes Great Responsibility 🕷️"
-}
-'''
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=120&section=footer"/>
+<h1 align="center">🕸️ Tech Stack</h1>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,nodejs,mongodb,mysql,git,github,vscode,firebase,linux&perline=8"/>
+
+</p>
+<h3 align="center">
+
+🕸️ "Anyone can win a fight. When the things are tough, when there seems to be no chance... that's when it counts."
+
+</h3>
