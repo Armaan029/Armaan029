@@ -1,8 +1,9 @@
 <div align="center">
 
 <img src="./Spiderman-Logos-FHD.gif" width="100%" alt="Armaan Banner"/>
+<br><br>
 
-# 👋 Hi, I'm Armaan Bishnoi
+<img src="./Armaan-Godara Spidy Font.png" width="80%" alt="Armaan Name"/>
 
 ### AI Enthusiast • Full-Stack Developer • B.Tech Computer Science Student
 
