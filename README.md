@@ -101,28 +101,31 @@ const armaan = {
 # ⚡ Power Level
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Armaan029&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Armaan029&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Armaan029&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armaan029&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Armaan029&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Armaan029&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🏅 Hero Achievements
+# 🕸️ Web Activity
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Armaan029&theme=algolia&no-frame=true&no-bg=true&column=4"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Armaan029&theme=tokyo-night&hide_border=true"/>
 </p>
+
+---
+
+# 🐍 Spider Sense
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Armaan029/Armaan029/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
+> **Note:** The snake animation won't appear until you set up a GitHub Action to generate it. We can do that after your README is finished.
 
 ---
 
@@ -130,12 +133,16 @@ const armaan = {
 
 <p align="center">
 
-<a href="mailto:godaraarmaan29@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/Armaan029">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/bishnoi-armaan29/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:godaraarmaan29@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/Bishnoi_029">
@@ -148,9 +155,13 @@ const armaan = {
 
 <div align="center">
 
-## 🕷️ "With Great Power Comes Great Responsibility."
+## 🕷️ Thanks for visiting my profile!
 
-⭐ If you like my work, consider following me.
+> *"With Great Power Comes Great Responsibility."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=120&section=footer"/>
+
+⭐ **If you like my work, don't forget to follow me!**
 
 Made with ❤️ by **Armaan Bishnoi**
 
