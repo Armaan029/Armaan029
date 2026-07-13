@@ -15,7 +15,7 @@ and turning ideas into impactful projects.
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=🕷️+With+Great+Power+Comes+Great+Responsibility+🕷️;AI+Enthusiast;Full-Stack+Developer;Building+Real-World+Projects;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=With+Great+Power+Comes+Great+Responsibility;AI+Enthusiast;Full-Stack+Developer;Building+Real-World+Projects;Always+Learning+New+Technologies" />
 </p>
 <div align="center">
 
