@@ -74,3 +74,87 @@ and turning ideas into impactful projects.
 🕸️ "Anyone can win a fight. When the things are tough, when there seems to be no chance... that's when it counts."
 
 </h3>
+<h1 align="center">🕸️ Featured Projects</h1>
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🤖 AI Crowd Management System
+
+AI-powered crowd monitoring system using Computer Vision and Machine Learning.
+
+**⚡ Tech Stack**
+- Python
+- OpenCV
+- AI/ML
+- Firebase
+
+</td>
+
+<td width="50%">
+
+### 🌐 Personal Portfolio
+
+Modern responsive portfolio showcasing projects and skills.
+
+**⚡ Tech Stack**
+- HTML
+- CSS
+- JavaScript
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 👨‍💼 Employee Attendance System
+
+Attendance management application with database integration.
+**ONE OF MY BEST PROJECTS I HAVE WORK ON**
+
+**⚡ Tech Stack**
+- Python
+- SQLite
+
+</td>
+
+<td width="50%">
+
+### ⚡ Electricity Bill Calculator
+
+Desktop application to calculate electricity bills.
+
+**⚡ Tech Stack**
+- Python
+
+</td>
+
+</tr>
+
+</table>
+<h1 align="center">📊 GitHub Analytics</h1>
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Armaan029&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armaan029&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Armaan029&theme=tokyonight&hide_border=true"/>
+
+</p>
+<h1 align="center">🏆 Achievements</h1>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Armaan029&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
