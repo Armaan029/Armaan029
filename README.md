@@ -12,10 +12,6 @@ Building real-world software, exploring Artificial Intelligence,
 and turning ideas into impactful projects.
 </p>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=8A2BE2&center=true&vCenter=true&width=700&lines=AI+Enthusiast+🤖;Full-Stack+Developer+💻;Building+Real-World+Projects+🚀;Learning+Something+New+Every+Day+📚" alt="Typing SVG" />
-</p>
-
 </div>
 
 <p align="center">
