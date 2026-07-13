@@ -3,7 +3,7 @@
 <img src="./Spiderman-Logos-FHD.gif" width="90%" alt="Armaan Banner"/>
 <br><br>
 
-<img src="./Armaan-Godara Spidy Font.png" width="120%" alt="Armaan Name"/>
+<img src="./Armaan-Godara Spidy Font.png" width="80%" alt="Armaan Name"/>
 
 ### AI Enthusiast • Full-Stack Developer • B.Tech Computer Science Student
 
@@ -19,7 +19,7 @@ and turning ideas into impactful projects.
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=8A2BE2&center=true&vCenter=true&width=700&lines=AI+Enthusiast+🤖;Full-Stack+Developer+💻;Building+Real-World+Projects+🚀;Learning+Something+New+Every+Day+📚;Welcome+to+my+GitHub!+👋" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=AI+Enthusiast;Full-Stack+Developer;Building+Real-World+Projects;Always+Learning+New+Technologies" />
 </p>
 <div align="center">
 
