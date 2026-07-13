@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/Spiderman-Logos-FHD.gif" width="100%" alt="Armaan Banner"/>
+<img src="./Spiderman-Logos-FHD.gif" width="100%" alt="Armaan Banner"/>
 
 # 👋 Hi, I'm Armaan Bishnoi
 
