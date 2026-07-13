@@ -2,7 +2,7 @@
 
 <img src="./Spiderman-Logos-FHD.gif" width="90%" alt="Spider Banner"/>
 
-<br><br>
+<br>
 
 <img src="./Armaan-Godara Spidy Font.png" width="80%" alt="Armaan"/>
 
