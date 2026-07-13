@@ -139,7 +139,7 @@ const armaan = {
 ---
 <h1 align="center">🕸️ Friendly Neighborhood Developer</h1>
 <p align="center">
-<img src="./MARVEL.jpg" width="250"/>
+<img src="./MARVEL.jpg" width="500"/>
 </p>
 
 <div align="center">
