@@ -114,16 +114,6 @@ const armaan = {
 
 ---
 
-# 🐍 Spider Sense
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Armaan029/Armaan029/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</p>
-
-> **Note:** The snake animation won't appear until you set up a GitHub Action to generate it. We can do that after your README is finished.
-
----
-
 # 🌐 Contact S.H.I.E.L.D.
 
 <p align="center">
@@ -147,17 +137,20 @@ const armaan = {
 </p>
 
 ---
+<p align="center">
+<img src="./MARVEL.jpg" width="250"/>
+</p>
 
 <div align="center">
 
-## 🕷️ Thanks for visiting my profile!
+## 🕷️ Thanks for Visiting My Universe
 
-> *"With Great Power Comes Great Responsibility."*
+*"With Great Power Comes Great Responsibility."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=120&section=footer"/>
-
-⭐ **If you like my work, don't forget to follow me!**
+⭐ Follow my journey as I build AI, Full-Stack, and Cloud projects.
 
 Made with ❤️ by **Armaan Bishnoi**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=120&section=footer"/>
 
 </div>
