@@ -41,8 +41,8 @@ and turning ideas into impactful projects.
 <h1 align="center">🕷️ About Me</h1>
 
 '''
-const armaan = {
 
+    const armaan = {
     name: "Armaan Bishnoi",
     education: "B.Tech Computer Science Engineering",
     location: "India 🇮🇳",
