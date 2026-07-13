@@ -40,27 +40,26 @@ and turning ideas into impactful projects.
 </div>
 <h1 align="center">🕷️ About Me</h1>
 
-```javascript
+'''
 const armaan = {
+
     name: "Armaan Bishnoi",
     education: "B.Tech Computer Science Engineering",
     location: "India 🇮🇳",
-
+    
     currentlyLearning: [
         "Artificial Intelligence",
         "Data Structures & Algorithms",
         "Next.js",
         "Cloud Computing"
     ],
-
     interests: [
         "Full Stack Development",
         "Open Source",
         "Machine Learning",
         "Problem Solving"
     ],
-
     currentFocus: "Building real-world AI powered applications",
-
     funFact: "🕸️ With Great Power Comes Great Responsibility 🕷️"
 }
+'''
