@@ -102,9 +102,9 @@ const armaan = {
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Armaan029&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Armaan029&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armaan029&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Armaan029&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -120,7 +120,7 @@ const armaan = {
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Armaan029&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Armaan029&theme=algolia&no-frame=true&no-bg=true&column=4"/>
 
 </p>
 
