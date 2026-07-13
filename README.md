@@ -62,5 +62,5 @@ const armaan = {
 
     currentFocus: "Building real-world AI powered applications",
 
-    funFact: "With great power comes great responsibility. 🕷️"
+    funFact: "🕸️ With Great Power Comes Great Responsibility 🕷️"
 }
