@@ -1,16 +1,59 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Armaan029/Armaan029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Armaan Bishnoi
 
-Here are some ideas to get you started:
+### AI Enthusiast • Full-Stack Developer • B.Tech CSE Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building real-world software, exploring Artificial Intelligence, and continuously learning new technologies.
+
+</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=8A2BE2&center=true&vCenter=true&width=700&lines=AI+Enthusiast+🤖;Full-Stack+Developer+💻;Building+Real-World+Projects+🚀;Learning+Something+New+Every+Day+📚;Welcome+to+my+GitHub!+👋" alt="Typing SVG" />
+</p>
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Armaan029&style=for-the-badge&color=blueviolet)
+
+<a href="https://github.com/Armaan029">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bishnoi-armaan29/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:godaraarmaan29@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/Bishnoi_029">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
+## 🧑‍💻 About Me
+
+```javascript
+const armaan = {
+    name: "Armaan Bishnoi",
+    education: "B.Tech Computer Science Engineering",
+    location: "India 🇮🇳",
+
+    currentlyLearning: [
+        "Artificial Intelligence",
+        "Data Structures & Algorithms",
+        "Next.js",
+        "Cloud Computing"
+    ],
+
+    interests: [
+        "Full Stack Development",
+        "Open Source",
+        "Machine Learning",
+        "Problem Solving"
+    ],
+
+    currentFocus: "Building real-world AI powered applications",
+
+    funFact: "With great power comes great responsibility. 🕷️"
+}
